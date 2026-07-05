@@ -55,8 +55,8 @@ I'm **Bapi Reddy**, a passionate Artificial Intelligence & Machine Learning stud
 ## 🏆 Achievements
 
 - 🥇 Oracle Agentic AI Foundations Certified
-- 🚀 NASA Space Apps Challenge Participant
-- 🏅 Innovate Andhra Hackathon Participant
+- 🚀 NASA Space Apps Challenge Winner
+- 🏅 AGENTICA 2.0 Hackathon — IIIT Sri City
 - 💻 Built AI, Blockchain & Full Stack Applications
 - 🌱 Active Open Source Learner
 
