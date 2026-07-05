@@ -38,9 +38,9 @@ I'm **Bapi Reddy**, a passionate Artificial Intelligence & Machine Learning stud
 
 - 📄 DOC-AI Document Analyzer
 - 📊 ResumeLens ATS Analyzer
-- 🏢 MSME AI Assistant
+- 🏢 Blockchain-Based Land Registry System
 - 🌡️ Thermal Leak Detection System
-- 🤖 Multi-Agent AI Orchestration Platform
+- 🤖 UPI Money Tracker
 
 ---
 
