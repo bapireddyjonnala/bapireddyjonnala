@@ -123,3 +123,9 @@ Computer Vision based industrial inspection system.
 ---
 
 ⭐ Always exploring new technologies and building innovative AI solutions.
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/bapireddyjonnala/bapireddyjonnala/output/github-contribution-grid-snake.svg)
